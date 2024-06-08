@@ -1,0 +1,11 @@
+There are two types of code in js
+
+Blocking Code VS Non blocking code
+
+Blocking code
+block the flow of the program 
+Read file Sync
+
+Non Blocking Code
+Do not block execution
+Read File Async 
