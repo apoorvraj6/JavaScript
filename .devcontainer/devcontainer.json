@@ -9,7 +9,8 @@
 			"extensions": [
 				"formulahendry.code-runner",
 				"ms-vscode.live-server",
-				"ZolarDev.js-runner"
+				"ZolarDev.js-runner",
+				"flowtype.flow-for-vscode"
 			]
 		}
 	}
